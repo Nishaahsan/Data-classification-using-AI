@@ -1,6 +1,5 @@
-# DecodeLabs-Internship-project2
-Iris flower classification using K-Nearest Neighbors (KNN) - Project 2 at DecodeLabs. Supervised learning pipeline with train-test split, feature scaling, and confusion matrix evaluation.
-# 🌸 Data Classification Using AI | DecodeLabs Project 2
+Iris flower classification using K-Nearest Neighbors (KNN). Supervised learning pipeline with train-test split, feature scaling, and confusion matrix evaluation.
+# 🌸 Data Classification Using AI 
 
 ## 📌 Overview
 This project implements a **supervised learning classification model** using the **K-Nearest Neighbors (KNN)** algorithm on the classic Iris dataset.
